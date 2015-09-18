@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Meerkat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-18 13:53-0000\n"
+"PO-Revision-Date: 2015-09-18 13:53-0000\n"
+"Last-Translator: David Artiss <david.artiss@artiss.co.uk>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: meerkat.php:46
+msgid "Support"
+msgstr ""
+
+#: meerkat.php:47
+msgid "Donate"
+msgstr ""
+
+#: meerkat.php:84
+msgid "Meerkat"
+msgstr ""
+
+#: meerkat.php:85
+msgid "Meerkat Video Widget."
+msgstr ""
+
+#: meerkat.php:179
+msgid "Widget Title"
+msgstr ""
+
+#: meerkat.php:185
+msgid "User name"
+msgstr ""
+
+#: meerkat.php:191
+msgid "Type"
+msgstr ""
+
+#: meerkat.php:193
+msgid "Portrait"
+msgstr ""
+
+#: meerkat.php:195
+msgid "Square"
+msgstr ""
+
+#: meerkat.php:197
+msgid "Big Square"
+msgstr ""
+
+#: meerkat.php:205
+msgid "Participation"
+msgstr ""
+
+#: meerkat.php:213
+msgid "Muted"
+msgstr ""
+
+#: meerkat.php:221
+msgid "Debug"
+msgstr ""
+
+#: meerkat.php:254
+msgid "Meerkat embedding error"
+msgstr ""
